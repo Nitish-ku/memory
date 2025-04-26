@@ -32,4 +32,6 @@ int main(void)
 
     printf("S: %s\n", s);
     printf("T: %s\n", t);
+
+    free(t);
 }
