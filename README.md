@@ -1,2 +1,0 @@
-# memory
-learning about memory
